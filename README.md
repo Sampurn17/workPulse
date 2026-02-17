@@ -1,4 +1,4 @@
-# TeamAI
+# WorkPulse
 
 Smart team management with AI-powered insights, document summarization, and data visualization — all in one multi-tenant SaaS platform.
 
